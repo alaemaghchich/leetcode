@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bubble-sort",
+    "name": "Bubble Sort",
+    "tagId": "79848"
+  },
+  "updatedAt": "2026-10-30T01:39:46.494Z",
+  "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0075-sort-colors.c",
+          "path": "0075-sort-colors/0075-sort-colors.c",
+          "sha": "56e72efacafa8ba1abdd66a5055141ac6b465619",
+          "lastSyncedAt": "2026-10-30T01:39:46.494Z"
+        }
+      ]
+    }
+  ]
+}
