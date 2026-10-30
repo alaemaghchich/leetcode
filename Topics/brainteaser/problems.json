@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "brainteaser",
+    "name": "Brainteaser",
+    "tagId": "32"
+  },
+  "updatedAt": "2026-10-30T01:41:36.215Z",
+  "problems": [
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "0292-nim-game/",
+      "readmePath": "0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0292-nim-game.c",
+          "path": "0292-nim-game/0292-nim-game.c",
+          "sha": "a4ac1db1b7a277244449c1634bb56748a7768165",
+          "lastSyncedAt": "2026-10-30T01:41:36.215Z"
+        }
+      ]
+    }
+  ]
+}
