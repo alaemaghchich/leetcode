@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-30T01:40:01.419Z",
+  "updatedAt": "2026-10-30T01:40:14.795Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0007-reverse-integer.c",
+          "path": "0007-reverse-integer/0007-reverse-integer.c",
+          "sha": "271b675e231e238281ebaf3c61fba59935885622",
+          "lastSyncedAt": "2026-10-30T01:40:14.795Z"
+        }
+      ]
+    },
     {
       "frontendId": "509",
       "title": "Fibonacci Number",
