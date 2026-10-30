@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-30T01:41:22.001Z",
+  "updatedAt": "2026-10-30T01:42:01.079Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0704-binary-search/0704-binary-search.c",
           "sha": "5f10ce28dd723a174a690df750cbfcdbb7ed1110",
           "lastSyncedAt": "2026-10-30T01:41:13.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2515",
+      "title": "Shortest Distance to Target String in a Circular Array",
+      "slug": "shortest-distance-to-target-string-in-a-circular-array",
+      "problemName": "2515-shortest-distance-to-target-string-in-a-circular-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+      "folderPath": "2515-shortest-distance-to-target-string-in-a-circular-array/",
+      "readmePath": "2515-shortest-distance-to-target-string-in-a-circular-array/README.md",
+      "solutions": [
+        {
+          "language": "PHP",
+          "extension": ".php",
+          "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.php",
+          "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.php",
+          "sha": "abcc7cbf8cf504d46d386130d1bc1669901b49bc",
+          "lastSyncedAt": "2026-10-30T01:42:01.079Z"
         }
       ]
     }
