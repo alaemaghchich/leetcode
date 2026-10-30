@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-30T01:39:25.259Z",
+  "updatedAt": "2026-10-30T01:42:06.092Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0021-merge-two-sorted-lists.c",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.c",
+          "sha": "0e40fbc9a99b0d17b4b62860838ba396223ffb01",
+          "lastSyncedAt": "2026-10-30T01:42:06.092Z"
+        }
+      ]
+    },
     {
       "frontendId": "203",
       "title": "Remove Linked List Elements",
