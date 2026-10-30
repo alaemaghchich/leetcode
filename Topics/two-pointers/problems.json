@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-30T01:40:45.605Z",
+  "updatedAt": "2026-10-30T01:41:01.328Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0026-remove-duplicates-from-sorted-array.c",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.c",
+          "sha": "a6446272c9cd9c750d13ac6316060053e466d624",
+          "lastSyncedAt": "2026-10-30T01:41:01.328Z"
+        }
+      ]
+    },
     {
       "frontendId": "28",
       "title": "Find the Index of the First Occurrence in a String",
