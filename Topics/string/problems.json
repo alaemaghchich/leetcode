@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T01:40:25.542Z",
+  "updatedAt": "2026-10-30T01:40:41.138Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0058-length-of-last-word.c",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.c",
+          "sha": "9bb3cef6090ab01950edf8f74c2615d4a8fce8d6",
+          "lastSyncedAt": "2026-10-30T01:40:41.138Z"
+        }
+      ]
+    },
     {
       "frontendId": "345",
       "title": "Reverse Vowels of a String",
