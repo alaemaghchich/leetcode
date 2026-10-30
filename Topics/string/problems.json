@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T01:39:33.274Z",
+  "updatedAt": "2026-10-30T01:40:25.542Z",
   "problems": [
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0345-reverse-vowels-of-a-string.c",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.c",
+          "sha": "57e085d0dba506b4c986b2e8ef0513069a34d223",
+          "lastSyncedAt": "2026-10-30T01:40:25.542Z"
+        }
+      ]
+    },
     {
       "frontendId": "551",
       "title": "Student Attendance Record I",
