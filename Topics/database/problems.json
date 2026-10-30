@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-30T01:42:23.227Z",
+  "updatedAt": "2026-10-30T01:42:44.349Z",
   "problems": [
     {
       "frontendId": "175",
@@ -104,6 +104,26 @@
           "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
           "sha": "638dc8a42468a181ff37d7796f7f6e0ed25889cd",
           "lastSyncedAt": "2026-10-30T01:41:53.441Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1179",
+      "title": "Reformat Department Table",
+      "slug": "reformat-department-table",
+      "problemName": "1179-reformat-department-table",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reformat-department-table/",
+      "folderPath": "1179-reformat-department-table/",
+      "readmePath": "1179-reformat-department-table/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1179-reformat-department-table.sql",
+          "path": "1179-reformat-department-table/1179-reformat-department-table.sql",
+          "sha": "2f9f86e2cb98b3158de35f034013d480326616d0",
+          "lastSyncedAt": "2026-10-30T01:42:44.349Z"
         }
       ]
     },
