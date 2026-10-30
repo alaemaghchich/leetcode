@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T01:40:41.138Z",
+  "updatedAt": "2026-10-30T01:40:45.605Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "sha": "7b9c6623a18a14d2bfd0b6634c3523684ca63472",
+          "lastSyncedAt": "2026-10-30T01:40:45.605Z"
+        }
+      ]
+    },
     {
       "frontendId": "58",
       "title": "Length of Last Word",
