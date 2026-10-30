@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-30T01:41:06.795Z",
+  "updatedAt": "2026-10-30T01:41:18.111Z",
   "problems": [
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "0182-duplicate-emails/",
+      "readmePath": "0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "d3f2552a37d27edc16e33667e5f5e9afa0553a4d",
+          "lastSyncedAt": "2026-10-30T01:41:18.111Z"
+        }
+      ]
+    },
     {
       "frontendId": "183",
       "title": "Customers Who Never Order",
