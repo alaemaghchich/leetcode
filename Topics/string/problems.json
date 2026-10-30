@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-30T01:39:33.274Z",
+  "problems": [
+    {
+      "frontendId": "551",
+      "title": "Student Attendance Record I",
+      "slug": "student-attendance-record-i",
+      "problemName": "0551-student-attendance-record-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/student-attendance-record-i/",
+      "folderPath": "0551-student-attendance-record-i/",
+      "readmePath": "0551-student-attendance-record-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0551-student-attendance-record-i.c",
+          "path": "0551-student-attendance-record-i/0551-student-attendance-record-i.c",
+          "sha": "ea17bd37cf7369e5a05a0aaa8a05889b6dd06919",
+          "lastSyncedAt": "2026-10-30T01:39:33.274Z"
+        }
+      ]
+    }
+  ]
+}
