@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T01:42:11.673Z",
+  "updatedAt": "2026-10-30T01:42:26.998Z",
   "problems": [
     {
       "frontendId": "14",
@@ -124,6 +124,26 @@
           "path": "0551-student-attendance-record-i/0551-student-attendance-record-i.c",
           "sha": "ea17bd37cf7369e5a05a0aaa8a05889b6dd06919",
           "lastSyncedAt": "2026-10-30T01:39:33.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "problemName": "1002-find-common-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+      "folderPath": "1002-find-common-characters/",
+      "readmePath": "1002-find-common-characters/README.md",
+      "solutions": [
+        {
+          "language": "PHP",
+          "extension": ".php",
+          "filename": "1002-find-common-characters.php",
+          "path": "1002-find-common-characters/1002-find-common-characters.php",
+          "sha": "1c586744c7c0390c6d6409e05c3ca47f1d92c22a",
+          "lastSyncedAt": "2026-10-30T01:42:26.998Z"
         }
       ]
     },
