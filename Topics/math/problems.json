@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-30T01:40:14.795Z",
+  "updatedAt": "2026-10-30T01:40:18.938Z",
   "problems": [
     {
       "frontendId": "7",
@@ -24,6 +24,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.c",
           "sha": "271b675e231e238281ebaf3c61fba59935885622",
           "lastSyncedAt": "2026-10-30T01:40:14.795Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0189-rotate-array.c",
+          "path": "0189-rotate-array/0189-rotate-array.c",
+          "sha": "842bc5a3a7319e795669c3d0248932e15465835a",
+          "lastSyncedAt": "2026-10-30T01:40:18.938Z"
         }
       ]
     },
