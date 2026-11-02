@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 27 | 3 | 0 |
+| 31 | 28 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 21 |
+| 1 days | 3 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-04-23 | 3 |
 | 2026-04-26 | 1 |
 | 2026-04-30 | 1 |
 | 2026-07-06 | 1 |
@@ -30,20 +29,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-08 | 1 |
 | 2026-09-30 | 1 |
 | 2026-10-30 | 1 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 33% |
-| String | 9 | 30% |
+| Array | 10 | 32% |
+| String | 10 | 32% |
 | Database | 7 | 23% |
 | Math | 7 | 23% |
-| Two Pointers | 6 | 20% |
+| Two Pointers | 7 | 23% |
 | Hash Table | 3 | 10% |
 | Recursion | 3 | 10% |
-| Binary Search | 2 | 7% |
-| Linked List | 2 | 7% |
+| Binary Search | 2 | 6% |
+| Linked List | 2 | 6% |
 | Boyer–Moore String-Search Algorithm | 1 | 3% |
 
 ## Topics
@@ -73,9 +73,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
